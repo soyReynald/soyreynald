@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Reynald 👋
+## I'm **devoted** to become a better ***Developer*** with my God's help.
 
-<!--
-**soyReynald/soyreynald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I know?
 
-Here are some ideas to get you started:
+- JavaScript
+- JQuery
+- PHP
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools I know how to use:
+
+- Photoshop
+- Fireworks
+- Visual Studio Code
+- Camtasia Studio
+
+What am I learning?
+
+- C#
+- Laravel
+- Ionic
+
+I am 25 years old, I love helping people and serving God.
