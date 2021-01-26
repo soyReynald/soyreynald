@@ -13,6 +13,7 @@ Tools I know how to use:
 - Photoshop
 - Fireworks
 - Visual Studio Code
+- Dreamweaver
 - Camtasia Studio
 
 What am I learning?
