@@ -18,8 +18,8 @@ Tools I know how to use:
 
 What am I learning?
 
-- C#
+- React
 - Laravel
-- Angular
+- Python
 
 I am 25 years old, I love helping people and serving God.
