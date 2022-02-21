@@ -11,10 +11,9 @@ What I know?
 Tools I know how to use:
 
 - Photoshop
-- Fireworks
 - Visual Studio Code
-- Dreamweaver
 - Camtasia Studio
+- Figma - CURRENTLY LEARNING -
 
 What am I learning?
 
