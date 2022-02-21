@@ -13,11 +13,11 @@ Tools I know how to use:
 - Photoshop
 - Visual Studio Code
 - Camtasia Studio
-- Figma - CURRENTLY LEARNING -
 
 What am I learning?
 
 - React
+- Figma
 - Laravel
 - Python
 
