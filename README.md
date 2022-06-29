@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/soyreynald" target="blank"><img src="https://img.shields.io/twitter/follow/soyreynald?logo=twitter&style=for-the-badge" alt="soyreynald" /></a> </p>
 
-- 🔭 I’m currently working on **Enterprise Management System (ALDERECA)**
+- 🔭 I’m currently working on **Tredium Solutions**
 
-- 🌱 I’m currently learning **Python, and Laravel**
+- 🌱 I’m currently learning **JavaScript, and Go**
 
 - 👯 I’m looking to collaborate on **Enterprise Software Systems and Web Apps**
 
 - 📝 I regularly write articles on [reynaldramirez.com/blog](reynaldramirez.com/blog)
 
-- 💬 Ask me about **JavaScript, React, PHP**
+- 💬 Ask me about **JavaScript, React, Go*
 
 - 📫 How to reach me **reynaldramirez@hotmail.com**
 
