@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, and PHP**
 
-- 👯 I’m looking to collaborate on **Enterprise Software Systems and Web Apps**
+- > I’m looking to collaborate on **Enterprise Software Systems and Web Apps**
 
 - 📝 I regularly write articles on [reynaldramirez.com/blog](reynaldramirez.com/blog)
 
