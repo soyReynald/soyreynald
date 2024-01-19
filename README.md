@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/soyreynald" target="blank"><img src="https://img.shields.io/twitter/follow/soyreynald?logo=twitter&style=for-the-badge" alt="soyreynald" /></a> </p>
 
-- 🔭 I’m currently working on **Cientificos del Software**
+- 🔭 I’m currently working on **Cientificos del Software** With a YouTube Channel: [Main Code YouTube Channel][(https://www.youtube.com/channel/UCcx0wy5KEcHvpTKoFFBm7Cw)]
 
 - 🌱 I’m currently learning **JavaScript, and PHP**
 
 - > I’m looking to collaborate on **Enterprise Software Systems and Web Apps**
 
-- 📝 I regularly write articles on [reynaldramirez.com/blog](reynaldramirez.com/blog)
+- 📝 I regularly write articles on [cientificosdelsoftware.com/blog](cientificosdelsoftware.com/blog)
 
 - 💬 Ask me about **HTML, CSS, JavaScript and PHP*
 
