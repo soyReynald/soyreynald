@@ -24,3 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyreynald&show_icons=true&locale=en&layout=compact" alt="soyreynald" /></p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=soyreynald)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soyreynald)
