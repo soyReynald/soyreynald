@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://blush-epoxy-232.notion.site/Hi-I-am-Reynald-Rodriguez-Ramirez-578df472739d4176a09f7deb22441751](https://blush-epoxy-232.notion.site/Hi-I-am-Reynald-Rodriguez-Ramirez-578df472739d4176a09f7deb22441751)
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.youtube.com/channel/UCcx0wy5KEcHvpTKoFFBm7Cw"><img align="center"/><img width="35" src="[https://drive.google.com/file/d/1x_0aEIGEn7nEsR0s2ZZio0UEuB5lnzPb/preview](https://drive.google.com/file/d/1x_0aEIGEn7nEsR0s2ZZio0UEuB5lnzPb/preview)" /> <br/>Click here to my YouTube</a>
+<a href="https://www.youtube.com/channel/UCcx0wy5KEcHvpTKoFFBm7Cw"><img align="center"/><iframe src="https://drive.google.com/file/d/1x_0aEIGEn7nEsR0s2ZZio0UEuB5lnzPb/preview" width="640" height="480" allow="autoplay"></iframe> <br/>Click here to my YouTube</a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyreynald&show_icons=true&locale=en&layout=compact" alt="soyreynald" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyreynald&" alt="soyreynald" /></p>
