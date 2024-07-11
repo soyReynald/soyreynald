@@ -23,4 +23,4 @@
 <br/><br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyreynald&show_icons=true&locale=en&layout=compact" alt="soyreynald" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyreynald&" alt="soyreynald" /></p>
+<p>[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyreynald&" alt="soyreynald" />](https://camo.githubusercontent.com/5fab456ee28ad3cfd64a1560e718a4a11a75f3cd92386981b026eb45caaba8ed/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d736f797265796e616c6426)</p>
