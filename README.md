@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **reynaldramirez@hotmail.com**
 
-- 📄 Know about my experiences [https://github.com/soyReynald](https://soyreynald.github.io/latest2025_portfolio/)
+- 📄 Know about my experiences [https://soyreynald.github.io/latest2025_portfolio/](https://soyreynald.github.io/latest2025_portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.youtube.com/channel/UCcx0wy5KEcHvpTKoFFBm7Cw"><img align="center"/><img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihby5QIErgSjJhya35vy3FZLvgPN5fYwOp2hlGMBD1RKXuJtXomBWBVRjv6jMVd3SVfAUJlpcQlDoE63eTE0MiMnh3xatO_DjCk=w450-h720" widt="24" /><br/><br/> Click here to my YouTube</a>
