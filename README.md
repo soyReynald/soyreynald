@@ -9,7 +9,7 @@
 
 - > I’m looking to collaborate on **Enterprise Software Systems and Web Apps**
 
-- 📝 I regularly write articles on [cientificosdelsoftware.com/blog](cientificosdelsoftware.com/blog)
+- 📝 I regularly write articles on [wattpad.com - blog & books website]
 
 - 💬 Ask me about **HTML, CSS, JavaScript and PHP*
 
