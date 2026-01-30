@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://soyreynald.github.io/latest2025_portfolio/](https://soyreynald.github.io/latest2025_portfolio/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyreynald&show_icons=true&locale=en&layout=compact" alt="soyreynald" /></p>
+<p>* ⚡ Fun fact: ... I love Milk with Chocolate</p>
+![Github Top Languages](https://raw.githubusercontent.com/soyreynald/githubtoplanguages/refs/heads/main/toplanguages.svg)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=soyreynald)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soyreynald)
