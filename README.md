@@ -18,5 +18,4 @@
 - 📄 Know about my experiences [https://soyreynald.github.io/latest2025_portfolio/](https://soyreynald.github.io/latest2025_portfolio/)
 
 <p>* ⚡ Fun fact: ... I love Milk with Chocolate</p>
-![Github Top Languages](https://raw.githubusercontent.com/soyreynald/githubtoplanguages/refs/heads/main/toplanguages.svg)
-
+https://raw.githubusercontent.com/soyreynald/githubtoplanguages/refs/heads/main/toplanguages.svg
